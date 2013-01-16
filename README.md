@@ -1,5 +1,5 @@
 #PHP WebHook Deploy
-For complete documentation of Github Post-Receive Hooks:  
+For complete documentation of Github Post-Receive Hooks, take a look at:  
 https://help.github.com/articles/post-receive-hooks
 
 ##Description
